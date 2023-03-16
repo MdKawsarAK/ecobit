@@ -1,2 +1,2 @@
 # ecobit-
- https://mdkawsarak.github.io/ecobit-/
+ https://mdkawsarak.github.io/ecobit/
